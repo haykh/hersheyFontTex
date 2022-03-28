@@ -1,4 +1,4 @@
-# Hershey font adapted for LaTeX
+# AV Hershey's famous font adapted for modern-day usage
 
 Classical font developed by Dr. Allen V. Hershey in 1967 for usage in early-day computers adapted to modern `otf` format. This adaptation of the font makes it possible to use it in the scientific plotting environments, such as `matplotlib` (see `example/plot.py` for an example).
 
