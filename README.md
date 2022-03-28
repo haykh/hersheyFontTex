@@ -1,4 +1,4 @@
-# hersheyFontTex
+# Hershey font adapted for LaTeX
 
 Classical font developed by Dr. Allen V. Hershey in 1967 for usage in early-day computers adapted to modern `otf` format. This adaptation of the font makes it possible to use it in the scientific plotting environments, such as `matplotlib` (see `plot.py` for an example).
 
