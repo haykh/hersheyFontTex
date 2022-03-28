@@ -6,7 +6,7 @@ Classical font developed by Dr. Allen V. Hershey in 1967 for usage in early-day 
 ![example_plot_light](./example/plot_light.svg)
 
 #### Dark plot example
-![example_plot_dark](./example/plot_light.svg)
+![example_plot_dark](./example/plot_dark.svg)
 
 ### Links
 * [Hershey font in the "Fonts in use" catalog](https://fontsinuse.com/typefaces/46757/hershey-fonts)
